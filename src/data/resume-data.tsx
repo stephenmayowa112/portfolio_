@@ -25,8 +25,8 @@ export const RESUME_DATA = {
   location: "Lagos, Nigeria, WAT",
   locationLink: "https://www.google.com/maps/place/lagos",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
-  summary:
+    "Full-stack Engineer dedicated to crafting products with meticulous care"
+  ,summary:
     "Experienced web developer skilled in frontend  technologies, with proven track record of delivering user-friendly websites promptly and within budget. Actively seeking opportunities to innovate and advance digital solutions.",
   avatarUrl: "https://res.cloudinary.com/dkkyvnhhg/image/upload/e_improve/v1716529165/miyagi_pic_ywcedk.png",
   personalWebsiteUrl: "https://www.linkedin.com/in/stephenmayowa/",
@@ -62,7 +62,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Univelcity",
-      link: "https://parabol.co",
+      link: "https://univelcity.com",
       badges: ["Onsite"],
       title: "Full Stack Developer (Trainee)",
       logo: ParabolLogo,
@@ -72,15 +72,15 @@ export const RESUME_DATA = {
         "Developed numerous full fledge responsive websites using react components, and django framework. \n Collaborated with designers and stakeholders to create wireframes, mockups. and prototypes for client projects. \n Managed version control using Git and collaborated with remote teams using Agile methodologies."
     },
     {
-      company: "Clevertech",
-      link: "https://clevertech.biz",
-      badges: ["Remote"],
+      company: "Pointsource.ng",
+      link: "https://www.pointsource.ng",
+      badges: ["Onsite"],
       title: "Lead Android Developer → Full Stack Developer",
       logo: ClevertechLogo,
-      start: "2015",
-      end: "2021",
+      start: "2021",
+      end: "2023",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+        "Managed and maintained the organization’s e-commerce website.",
     },
     {
       
