@@ -97,53 +97,58 @@ export const RESUME_DATA = {
     "Linux",
     
   ],
+
+
   projects: [
     {
-      title: "Consultly",
+      title: "Quicklift",
       techStack: [
         "Side Project",
-        "TypeScript",
-        "Next.js",
+        "JavaScript",
+        "React",
         "Vite",
-        "GraphQL",
-        "WebRTC",
+        "HTML",
+        "CSS",
       ],
-      description: "A platform to build and grow your online business",
+      description: "A website for a ride hailing company",
       logo: ConsultlyLogo,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "quicklift.com",
+        href: "https://quicklift2-7uch.vercel.app",
       },
     },
     
     
     {
-      title: "Parabol",
+      title: "Form Validation",
       techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
+        
+        "JavaScript",
+        "HTML",
+        "CSS",
+        
       ],
       description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
+        "A form that follows the form validation principles",
       logo: ParabolLogo,
       link: {
         label: "github.com",
-        href: "https://parabol.co/",
+        href: "https://stephenmayowa112.github.io/formValidation/",
       },
     },
     
+
+
+
     {
-      title: "Tastycloud",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
+      title: "Who wants to be a Thousandnaire",
+      techStack: ["Python"],
       description:
-        "Android application for managing and displaying restaurant menus in kiosk mode",
+        "A game built with python that mimics the popular 'who wants to be a Millionaire' game ",
       logo: TastyCloudLogo,
       link: {
-        label: "tastycloud.fr",
-        href: "https://www.tastycloud.fr/",
+        label: "github.com",
+        href: "https://github.com/Micode360/Who-wants-to-be-a-Thousandnaire/tree/miyagi",
       },
     },
     
