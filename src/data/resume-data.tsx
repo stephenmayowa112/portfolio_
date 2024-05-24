@@ -82,17 +82,7 @@ export const RESUME_DATA = {
       description:
         "Managed and maintained the organization’s e-commerce website.",
     },
-    {
-      
-      company: "Nokia Siemens Networks",
-      link: "https://www.nokia.com",
-      badges: [],
-      title: "C/C++ Developer",
-      logo: NSNLogo,
-      start: "2010",
-      end: "2012",
-      description: "Creating and testing software for LTE base stations",
-    },
+    
   ],
   skills: [
     "JavaScript",
@@ -104,6 +94,7 @@ export const RESUME_DATA = {
     "Git",
     "Cloud Computing",
     "Tailwind CSS",
+    "Linux",
     
   ],
   projects: [
