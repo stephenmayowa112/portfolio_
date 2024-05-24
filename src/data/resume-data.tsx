@@ -75,7 +75,7 @@ export const RESUME_DATA = {
       company: "Pointsource.ng",
       link: "https://www.pointsource.ng",
       badges: ["Onsite"],
-      title: "Lead Android Developer → Full Stack Developer",
+      title: "Web Developer",
       logo: ClevertechLogo,
       start: "2021",
       end: "2023",
