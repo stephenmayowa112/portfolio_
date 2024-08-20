@@ -64,7 +64,7 @@ export const RESUME_DATA = {
       company: "Univelcity",
       link: "https://univelcity.com",
       badges: ["Onsite"],
-      title: "Full Stack Developer (Trainee)",
+      title: "Junior Full Stack Developer",
       logo: ParabolLogo,
       start: "2024",
       end: "Present",
