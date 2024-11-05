@@ -89,6 +89,7 @@ export const RESUME_DATA = {
     "TypeScript",
     "React",
     "Node.js",
+    "next.js",
     "Python",
     "Django",
     "Git",
@@ -105,7 +106,6 @@ export const RESUME_DATA = {
       techStack: [
         "Side Project",
         "JavaScript",
-        "next.js",
         "React",
         "Vite",
         "HTML",
