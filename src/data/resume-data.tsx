@@ -142,14 +142,15 @@ export const RESUME_DATA = {
 
 
     {
-      title: "Who wants to be a Thousandnaire",
-      techStack: ["Python"],
+      title: "Athletes on Chain",
+      techStack: ["React", "Tailwind CSS"],
       description:
-        "A game built with python that mimics the popular 'who wants to be a Millionaire' game ",
+        "A blockchain based plartform for sport developement and management ",
       logo: TastyCloudLogo,
       link: {
         label: "github.com",
         href: "https://github.com/Micode360/Who-wants-to-be-a-Thousandnaire/tree/miyagi",
+        href: "https://athletes-on-chain.onrender.com",
       },
     },
     
