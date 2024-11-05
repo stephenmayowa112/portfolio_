@@ -149,7 +149,6 @@ export const RESUME_DATA = {
       logo: TastyCloudLogo,
       link: {
         label: "github.com",
-        href: "https://github.com/Micode360/Who-wants-to-be-a-Thousandnaire/tree/miyagi",
         href: "https://athletes-on-chain.onrender.com",
       },
     },
