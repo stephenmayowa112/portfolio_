@@ -105,6 +105,7 @@ export const RESUME_DATA = {
       techStack: [
         "Side Project",
         "JavaScript",
+        "next.js",
         "React",
         "Vite",
         "HTML",
