@@ -83,8 +83,8 @@ export const RESUME_DATA = {
       badges: ["Onsite"],
       title: "Web Developer",
       logo: ClevertechLogo,
-      start: "2021",
-      end: "2023",
+      start: "March 2021",
+      end: "October 2023",
       description: [
       "🔹 E-commerce Platform Transformation: ",
       "spearheaded complete platform redesign using WordPress",
