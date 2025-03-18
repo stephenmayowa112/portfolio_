@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Full-stack Engineer dedicated to crafting products with meticulous care"
   ,summary:
     "Experienced web developer skilled in frontend  technologies, with proven track record of delivering user-friendly websites promptly and within budget. Actively seeking opportunities to innovate and advance digital solutions.",
-  avatarUrl: "https://res.cloudinary.com/dkkyvnhhg/image/upload/e_improve/v1716529165/miyagi_pic_ywcedk.png",
+  avatarUrl: "https://res.cloudinary.com/dkkyvnhhg/image/upload/v1742315806/miyags1_a7y1zr.jpg",
   personalWebsiteUrl: "https://www.linkedin.com/in/stephenmayowa/",
   contact: {
     email: "stephenmayowa112@gmail.com",
@@ -64,9 +64,9 @@ export const RESUME_DATA = {
       company: "Univelcity",
       link: "https://univelcity.com",
       badges: ["Onsite"],
-      title: "Junior Full Stack Developer",
+      title: "Full Stack Developer",
       logo: ParabolLogo,
-      start: "2024",
+      start: "January 2024 - December 2024",
       end: "Present",
       description:
         "Developed numerous full fledge responsive websites using react components, and django framework. \n Collaborated with designers and stakeholders to create wireframes, mockups. and prototypes for client projects. \n Managed version control using Git and collaborated with remote teams using Agile methodologies."
