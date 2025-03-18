@@ -66,10 +66,16 @@ export const RESUME_DATA = {
       badges: ["Onsite"],
       title: "Full Stack Developer",
       logo: ParabolLogo,
-      start: "January 2024 - December 2024",
-      end: "Present",
-      description:
-        "Developed numerous full fledge responsive websites using react components, and django framework. \n Collaborated with designers and stakeholders to create wireframes, mockups. and prototypes for client projects. \n Managed version control using Git and collaborated with remote teams using Agile methodologies."
+      start: "January 2024",
+      end: "December 2024",
+      description: [
+          
+      "🔹 Full-Stack Development: ",
+      " Built high-performance apps using React/Next.js and Django",
+      " Achieved 40% improvement in page load performance",
+      " Implemented responsive design patterns across platforms",
+      
+      ]
     },
     {
       company: "Pointsource.ng",
@@ -79,8 +85,13 @@ export const RESUME_DATA = {
       logo: ClevertechLogo,
       start: "2021",
       end: "2023",
-      description:
-        "Managed and maintained the organization's e-commerce platform.",
+      description: [
+      "🔹 E-commerce Platform Transformation: ",
+      "spearheaded complete platform redesign using WordPress",
+      " Drove 45% increase in online sales",
+      " Delivered seamless cross-device shopping experience",
+    
+      ]
     },
     
   ],
@@ -93,7 +104,8 @@ export const RESUME_DATA = {
     "Python",
     "Django",
     "Git",
-    "Cloud Computing",
+    "AWS",
+    "gOOGLE cLOUD",
     "Tailwind CSS",
     "Linux",
     
@@ -121,20 +133,20 @@ export const RESUME_DATA = {
     
     
     {
-      title: "Form Validation",
+      title: "Ndara Studio",
       techStack: [
         
-        "JavaScript",
-        "HTML",
-        "CSS",
+        "Next.js",
+        "Typescript",
+        "TailwindCSS",
         
       ],
       description:
-        "A form that follows the form validation principles",
+        "A website for a design company based in the UK",
       logo: ParabolLogo,
       link: {
         label: "github.com",
-        href: "https://stephenmayowa112.github.io/formValidation/",
+        href: "https://ndara.vercel.app/",
       },
     },
     
@@ -150,6 +162,42 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://athletes-on-chain.onrender.com",
+      },
+    },
+    {
+      title: "Candor MInistry",
+      techStack: [
+        
+        "Next.js",
+        "Typescript",
+        "TailwindCSS",
+        
+      ],
+      description:
+        "A website for a faith based organization",
+      logo: ParabolLogo,
+      link: {
+        label: "github.com",
+        href: "https://candor-ministry.onrender.com/",
+      },
+    },
+    {
+      title: "Roshe Mentorship",
+      techStack: [
+        
+        "Next.js",
+        "Typescript",
+        "TailwindCSS",
+        "Django",
+        "supabase",
+        
+      ],
+      description:
+        "A mentorship platform for individuals seeking to transition into the animation and design industry",
+      logo: ParabolLogo,
+      link: {
+        label: "github.com",
+        href: "https://new-roshe.onrender.com/",
       },
     },
     
